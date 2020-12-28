@@ -7,9 +7,9 @@ const StyledFooter = styled.footer`
   margin: 0 auto;
   padding: 0 2.5rem;
   background: black;
-  color: white;
+  color: {white};
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   font-size: 0.8rem;
   text-transform: uppercase;
